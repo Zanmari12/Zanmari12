@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil💙
 
-<!--
-**Zanmari12/Zanmari12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana Zanóbio
 
-Here are some ideas to get you started:
+- Estou estudando no Alura [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utlizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Você entar em contato comigo📫
+
+marianazanobio@prof.educacao.sp.gov.br
+
+@marianazanobio
+
+![](https://tenor.com/pt-BR/view/bom-dia-gif-21644911)
+
